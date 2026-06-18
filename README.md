@@ -8,6 +8,3 @@ A general-purpose breakout and development board featuring the **MCP2562FDT** CA
 * **Protection:** On-board TVS diodes for ESD protection and space for a Common-Mode Choke.
 * **Termination:** Includes optional split termination ($2 \times 60\,\Omega$ with a center-tapped capacitor to GND).
 
-## Review Focus Areas for Supervisor
-* Schematic routing of the `STBY` and $V_{IO}$ pins.
-* $120\,\Omega$ differential trace geometry on the PCB layout.
